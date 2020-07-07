@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student id="8">
+        <name>Марина</name>
+        <email>mery@gmail.com</email>
+        <average_mark>6.7</average_mark>
+    </student>
+    <student id="6">
+        <name>Александр</name>
+        <email>sasha@mail.com</email>
+        <average_mark>8.3</average_mark>
+    </student>
+    <student id="2">
+        <name>Света</name>
+        <email>svetka@mail.com</email>
+        <average_mark>7.4</average_mark>
+    </student>
+    <student id="1">
+        <name>Михаил</name>
+        <email>misha@gmail.com</email>
+        <average_mark>3.4</average_mark>
+    </student>
+    <student id="4">
+        <name>Олег</name>
+        <email>oleg93@gmail.com</email>
+        <average_mark>8.9</average_mark>
+    </student>
+    <student id="9">
+        <name>Николай</name>
+        <email>kolja@mail.ru</email>
+        <average_mark>6.6</average_mark>
+    </student>
+</students>
